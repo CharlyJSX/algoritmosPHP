@@ -41,7 +41,7 @@
 ![10-fahrenheitACelsius](https://github.com/CharlyJSX/algoritmosPHP/assets/77645310/1de63dd1-ef3b-42c9-a00e-d6a9239d8d8d)
 
 
-Fuente:
+Fuente: Develoteca - Oscar J. Uh Pérez 
 
 https://www.youtube.com/watch?v=MY3q1cHE2D0&t=3794s
 
